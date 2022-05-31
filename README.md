@@ -74,3 +74,5 @@ The output is a file named `<inputfilename>.json`
 
 Not managed. TBD
 
+# Limitations and Disclaimer
+THE SOFTWARE IS PROVIDED “AS IS.” YOU BEAR THE RISK OF USING IT. PLEASE USE IT IN NON PRODUCTION ENVIRONMENTS.
