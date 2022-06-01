@@ -8,6 +8,8 @@ postCode,firstName,lastName,identifiers.0.provider,identifiers.0.id,identifiers.
 ...
 ````
 
+The input file has to be in CSV format, the column name is free text and the tool does not perform name checking, there is no limit in the number of columns. The tool generates a flat json structure, if nested or multiple values were needed (eg. `identifiers` or `extensions`) please read the following paragraphs.
+
 ## uuid4 Generation
 The script generates UUID4 automatically. It is not needed to be provided in the CSV input file.
 
